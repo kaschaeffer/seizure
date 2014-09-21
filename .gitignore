@@ -1,0 +1,12 @@
+# Annoying system files
+.DS_Store
+
+# Python
+*.pyc
+
+# Data
+seizure/data/*
+
+# Sensitive info
+seizure/config.py
+
